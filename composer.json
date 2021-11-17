@@ -1,0 +1,13 @@
+{
+    "require": {
+        "silex/silex": "^2.3",
+        "google/cloud-datastore": "^1.0",
+        "google/cloud": "^0.128.0",
+        "grpc/grpc": "^v1.1.0",
+        "google/protobuf": "^v3.3.0",
+        "monolog/monolog": "^2.0"
+    },
+    "require-dev": {
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}

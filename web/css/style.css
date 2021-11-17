@@ -1,0 +1,46 @@
+.searchingLabel {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 14px;
+	color: black;
+}
+
+.selectionSearch{
+   width: 200px;
+   color: #212121;
+   border: none;
+   border: 1px solid green;
+   letter-spacing: 1px;
+   text-align: left;
+}
+
+.searchButton{
+	
+	font-weight: bold;
+}
+
+.map iframe{
+	width:100%;
+	min-height:400px;
+	margin-bottom:-6px;
+}
+
+
+.showTable{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+.showTableData{
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 5px;
+	text-align: left;
+}
+
+.journeyHead {
+	border: 2px outset red;
+	background-color: lightblue;    
+	text-align: center;
+	color: white;
+    font-weight: bold;
+  }

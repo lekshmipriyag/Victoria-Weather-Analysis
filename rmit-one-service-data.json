@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rmit-one",
+  "private_key_id": "5f707fb2310269e5300f6dd8345eb7edb9211164",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQChbxJOL39n7Cne\nHBS2cKPuOw4kgZLUYO3daEyw1N6vCz7blbvrqTTt4EmQr/InQV80nWy5d9aBNjhP\n+SCt6osMFYGS5R2S9jDDKz6DZiYtI3QZ4Lls9IYr6ZgSkXqQLpT2linNTMCMSYnn\nq9B7oZFTvHvL6lNppSIkwMnyqVbuuhTMDmReoTYFJCytGxHhmhnxUiEab1BUnaYl\nNhcDSF0wtVF+rQbInhoYK3ZdM2GXR4rz78qJwRxUTZ/XHndZoY6+3JaX56QpNJ3C\nrbmXFYhjkW9NuCeVsdfKWHaZSHeOmUnNNx1E6pR8OSCSYRkS5Be+mHba3hdAINML\nW5Dz5fRXAgMBAAECggEACNu2QURkSoNlgBLCD4lvyAyah+X09M1wJU7qAmaz5Mlf\nr3SbGraEDoIuVzpTCyoQUNagltlyE6YHggVAG1BRmp360wuFIMF8nIEHeEtce0FE\n8inoKDKPbY0Zs08jTr0XnyOkneeBG1GVDSQwQlBzz935sbn6eMNpyQ2BJ10jxYv/\nERv0vSf5+8KV4HMCGGgvtNBZyC0YwNHtxfGopCFvVZq9A5bWbEkDhcHUjtqEaYGk\nl3Jmm2krsClQ4Dl0gWBxza1w7vCjVxe5rLrrFF4alduTrBBlvfGI/1lNoIvb2SYw\nTaOLe1OfsoD5RK1BQ3RyHT9KLEBzDaIENYXHhmfIHQKBgQDaWHfI0HwjYBXlb/qY\nVCrVWoN3NC8ZqWdFelheHnvuszlJZGOgjPnE5bKsQy8ILnkrlSJscRG2waO9/TLg\nSDc2irwoEWaRmZ6wkOfO3l//Ny/nE5W6gflqCFmFV3QTK9Ig3PsuzDSFTcSBq8xQ\nI0JSDTvK/c18oVIunbpOmUMCpQKBgQC9RhAKItnOdF7ycNoyw1zGZf4jdgV9R8BX\n01pB959BDuoH3aViQvFuF+HTuPXL3UmpSqIVA0MICIyAzADe2ShXaXCs26aIT7Pd\nhk0LDj0vk1RWMkZ14UPIBOn0slp67YTFByrHXQwrh0vn+ahai7rcVxqUecYuGhYK\nytB9AsIWSwKBgQC0t9J06HJGyUl2PEeaetd0/VSgfhWZ1MeADvJC/FIxUC/TGf8H\nrIcyO7e1smmkCOsLcoUqYi96Jy2Cm6XXUo44W32+YCCX1CEvHNBwPUgRMbk5NdGQ\nq/EmnMCTh72v/G4P+zb/Fc9GogZKGUqi7Xv/86oQqh7Az7j4kl3YniuDbQKBgDPf\nRLwSaxDq0a6uAQ7SfdWd1DWRvdVk2bD4Ko9TtuCUns0DELVKVXJvtyNYWHzDq9Fq\ns9sAZtmHxkHyJvbsGuNB8XBeTlijR08Z5Hl4MIqeXQm2g5sA3putxRSb4LI58B4z\nZaT3ukMftEziHiKakt6aPJ2edhLicVIJ3XO1Us3bAoGAJVvnnKwTnFwxr4t4uB4k\nEXpa/R6vq6GgvjXfY4kCA4UsIe8TO226azIHTjn3EbUcWBtWuOQ4ME610oPcoign\n+RF3NMM/lNzFiwHv/9bSuaIzwiQz2dkjyEIw4mHnegJZ9dL8Xt8YoMsjKWCYSdw+\n4YsDakLPw41gdBsEpctTjUQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "rmit-one-service@rmit-one.iam.gserviceaccount.com",
+  "client_id": "116747143198462364446",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rmit-one-service%40rmit-one.iam.gserviceaccount.com"
+}
